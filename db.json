@@ -8,8 +8,7 @@
     { "id": 123, "body": "some comment 1", "blogId": 123 },
     { "id": 234, "body": "some comment 2", "blogId": 234 }
   ],
-  "profile": {
-    "first": "Fred",
-    "last": "Flintstone"
-  }
+  "profile": [
+	  { "first": "Fred", "last": "Flintstone" }
+  ]
 }
