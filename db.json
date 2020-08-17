@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "blogs": [
+    { "id": 123, "title 1": "Blog 1 Blah" },
+    { "id": 234, "title 2": "Blog 2 Blah Blah" },
+    { "id": 345, "title 3": "Blog 3 Blah Blah Blah" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 123, "body": "some comment 1", "blogId": 123 },
+    { "id": 234, "body": "some comment 2", "blogId": 234 }
   ],
   "profile": {
-    "name": "typicode"
+    "first": "Fred"
+    "last": "Flintstone"
   }
 }
