@@ -9,7 +9,7 @@
     { "id": 234, "body": "some comment 2", "blogId": 234 }
   ],
   "profile": {
-    "first": "Fred"
+    "first": "Fred",
     "last": "Flintstone"
   }
 }
