@@ -1,7 +1,6 @@
 {
     "account" : {
-        "users" : [
-            "user" : {
+        "users" : [{
                 "firstName": "Dan",
                 "lastName": "Downs",
                 "street": "3101 Lakeshore Dr.",
@@ -10,7 +9,7 @@
                 "zip": "80301",
                 "email": "dan.downs@lefthandsoftware.com"
             },
-            "user" : {
+            {
                 "firstName": "Gail",
                 "lastName": "Denton",
                 "street": "3101 Lakeshore Dr.",
