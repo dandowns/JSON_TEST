@@ -1,12 +1,26 @@
 {
-    "user" : {
-
-  "firstName": "Dan",
-  "lastName": "Downs",
-  "street": "3101 Lakeshore Dr.",
-  "city": "Longmont",
-  "state": "Colorado",
-  "zip": "80301"
-
-}
+    "account" : {
+        "users" : [
+            "user" : {
+                "firstName": "Dan",
+                "lastName": "Downs",
+                "street": "3101 Lakeshore Dr.",
+                "city": "Longmont",
+                "state": "Colorado",
+                "zip": "80301",
+                "email": "dan.downs@lefthandsoftware.com"
+            },
+            "user" : {
+                "firstName": "Gail",
+                "lastName": "Denton",
+                "street": "3101 Lakeshore Dr.",
+                "city": "Longmont",
+                "state": "Colorado",
+                "zip": "80301",
+                "email": "gail.denton@lefthandsoftware.com"
+            }
+        ],
+        "accountID" : "act12345",
+        "accountName" : "Denton-Downs"
     }
+}
